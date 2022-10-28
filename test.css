@@ -1,0 +1,47 @@
+.main-title {
+    color: red;
+    font-size: 60px;
+}
+
+.second-title {
+    color: green;
+    font-size: 40px;
+}
+
+#third-title {
+    color:blue ;
+    font-size: 30px;
+}
+
+
+/* pour le id on utilise le # et pour le class on utilise le . */
+
+
+li {
+    color: purple;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(255, 172, 172);
+}
+
+p {
+    text-decoration-line: underline;
+    background-color: yellow;
+}
+
+td,th {
+    border: solid 1px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto ;
+}
+
+image {
+ 
+}
